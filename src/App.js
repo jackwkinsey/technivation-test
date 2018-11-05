@@ -9,7 +9,7 @@ import "./App.css";
 
 const POINTS = 50;
 
-const HOST = "http://technivationtestapi.azurewebsites.net/api/";
+const HOST = "https://technivationtestapi.azurewebsites.net/api/";
 const GET_ACCOUNTS = HOST + "accounts";
 
 class App extends Component {
